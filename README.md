@@ -1,3 +1,18 @@
+# Authentication App
+
+I built this as part of an apprenticeship where I was guided on what technologies to use, but I learned how to use them on my own. It's a simple custom authentication app with elevated privilege users, session login, non privileged user management by privileged users.
+
+## Technologies
+ - JavaScript
+ - CSS
+ - PHP
+ - MySQLi
+ - AJAX
+ - jQuery
+ - XAMPP
+ - Codeigniter 4
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
